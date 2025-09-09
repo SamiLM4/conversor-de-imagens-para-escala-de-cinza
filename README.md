@@ -1,5 +1,6 @@
 # conversor-de-imagens-para-escala-de-cinza
-Conversor de Imagens coloridas para escala de cinza
+## Conversor de Imagens coloridas para escala de cinza
+Para este projeto foi utilizado técnicas de computação gráfica em c#
 
 <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/d35bbbfa-2be3-444f-a988-dc34812a55e2" />
 
